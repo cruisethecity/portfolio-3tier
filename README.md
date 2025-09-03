@@ -32,21 +32,6 @@ portfolio-3tier/
 │   ├── no-changes.png
 
 
-### Terraform Apply
-![Terraform Apply](./screenshots/terraform-apply.png)
-
-### Terraform Apply
-![Terraform Apply](./screenshots/terraform-apply.png)
-
-### AWS Subnets
-![AWS Subnets](./screenshots/aws-subnets.png)
-
-### No Changes (Terraform Plan)
-![No Changes](./screenshots/no-changes.png)
-
-
-
-
 # 1. Initialize Terraform
 terraform init
 
@@ -87,9 +72,3 @@ Future improvements could include:
 Adding a Load Balancer (ALB) for high availability
 
 Adding a NAT Gateway so private instances can reach the internet for updates
-
-Multi-AZ RDS for improved durability
-# 1. Initialize Terraform
-terraform init
-
-
